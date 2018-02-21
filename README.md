@@ -1,5 +1,3 @@
-~~~Kaori Synth Readme~~~
-
 *********************************
 **** Version: 1.0            ****
 **** Author: Justin Watts    ****
@@ -19,7 +17,7 @@ Kaori Miyazono - Your Lie in April
 ***Basic Operation***
 
 
-~How to Play~
+How to Play
 
 - Access Monosynth Application via the “Kaori Synth.exe” file within the “Kaori Synth” folder
 - Play notes either through a MIDI controller or by selecting notes on the on-screen keyboard
@@ -27,7 +25,7 @@ Kaori Miyazono - Your Lie in April
 - Default devices for this synth are Oxygen 25 and Oxygen 49 MIDI controllers
 
 
-~Wave Control~
+Wave Control
 
 - Select desired wave type from the “Wave Type” dropdown menu under “Wave Control”
 - Default wave type is “Sawtooth”
@@ -36,7 +34,7 @@ Kaori Miyazono - Your Lie in April
 - Holding notes automatically is off by default
 
 
-~Volume Control~
+Volume Control
 
 - Mapped to controller number 20 on MIDI channel 1
 - Operated by slider C9 on Oxygen 25 MIDI input device
@@ -50,7 +48,7 @@ Kaori Miyazono - Your Lie in April
 ***Effects***
 
 
-~Pitch Bend~
+Pitch Bend
 
 - Using the “Pitch Bend” knob under “Effects” will either raise or lower the pitch of a played note
 - Mapped to controller number 1 on MIDI channel 1
@@ -61,7 +59,7 @@ Kaori Miyazono - Your Lie in April
 - Default value is set to 0 for no pitch change
 
 
-~Arpeggiator~
+Arpeggiator
 
 - Select desired arpeggiator from the “Arpeggiator” dropdown menu under “Effects”
 - Hold a note on the MIDI controller to produce an arpeggiation of that note
@@ -74,7 +72,7 @@ Kaori Miyazono - Your Lie in April
 - Defaults to “No Arpeggiator” and a value of 360 for “Arpeggiator Speed”
 
 
-~Repetitions~
+Repetitions
 
 - Select the desired number of repetitions, or echoes, for a played note by selecting a number from
   the “Amount of Repetitions” dropdown menu under “Effects”
@@ -94,7 +92,7 @@ Kaori Miyazono - Your Lie in April
 ***Octave Control***
 
 
-~Octave Switcher~
+Octave Switcher
 
 - Select the desired octave range by either selecting the number of octaves to move up or down
   using the “Octave” dropdown menu under “Octave Control” or by using the “Octave Switcher” knob
@@ -107,7 +105,7 @@ Kaori Miyazono - Your Lie in April
 - Default octave is set to “No Change”
 
 
-~Octave Adder~
+Octave Adder
 
 - Select the desired number of octaves to add by either selecting the number of octaves using the
   “Amount of Octaves” dropdown menu under “Octave Control” or by using the “Octave Addition” knob
@@ -125,7 +123,7 @@ Kaori Miyazono - Your Lie in April
 ***Envelope***
 
 
-~Attack~
+Attack
 
 - Using the “Attack” knob under “Envelope” will either increase or decrease a note’s attack time
 - Upon playing a note, the attack time will determine how quickly the note reaches its full volume
@@ -137,7 +135,7 @@ Kaori Miyazono - Your Lie in April
 - Default attack time is 1 millisecond
 
 
-~Decay~
+Decay
 
 - Using the “Decay” knob under “Envelope” will either increase or decrease a note’s decay time
 - Upon releasing a note, the decay time will determine how quickly the note fades in volume
@@ -150,7 +148,7 @@ Kaori Miyazono - Your Lie in April
 
 
 
-~Release~
+Release
 
 - Using the “Release” knob under “Envelope” will either increase or decrease a note’s release time
 - Upon releasing a note, the release time will determine how long a note holds after being released
@@ -167,7 +165,7 @@ Kaori Miyazono - Your Lie in April
 ***Distortion***
 
 
-~Noise~
+Noise
 
 - Using the “Noise” knob under “Distortion” will either increase or decrease the amount of noise
   added to a note
@@ -180,7 +178,7 @@ Kaori Miyazono - Your Lie in April
 - Default value is 0 for no noise
 
 
-~Sampling Rate and Word Size~
+Sampling Rate and Word Size
 
 - Using the “Sampling Rate” and “Word Size” knobs under “Distortion” will effect the integrity of the
   note being processed
@@ -200,7 +198,7 @@ Kaori Miyazono - Your Lie in April
 ***Recording and Playback***
 
 
-~Recording~
+Recording
 
 - Using the “Record” button under “Recording and Playback” will allow the user to record any played
   notes for up to one minute of time
@@ -212,7 +210,7 @@ Kaori Miyazono - Your Lie in April
 - Default value is set to off
 
 
-~Playback~
+Playback
 
 <Play>
 - Using the “Play” button under “Recording and Playback” will allow the user to play back any
