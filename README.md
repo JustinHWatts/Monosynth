@@ -212,7 +212,7 @@ Recording
 
 Playback
 
-<Play>
+Play
 - Using the “Play” button under “Recording and Playback” will allow the user to play back any
   recorded notes for up to one minute of time
 - Mapped to controller number 117 on MIDI channel 1
@@ -220,14 +220,14 @@ Playback
 - Manually activate using the “Play” button under “Recording and Playback”
 - Default value is set to off
 
-<Stop>
+Stop
 - Using the “Stop” button under “Recording and Playback” will immediately stop any playback
 - Mapped to controller number 116 on MIDI channel 1
 - Operated by button C12 on Oxygen 25 MIDI input device
 - Manually activate using the “Stop” button under “Recording and Playback”
 - Default value is set to off
 
-<Loop>
+Loop
 - Using the “Loop” button under “Recording and Playback” will allow the user to loop anything
   played using the “Play” button
 - Upon hitting the “Loop” button, everything played will be looped until the button is pressed again,
@@ -237,7 +237,7 @@ Playback
 - Manually activate and deactivate using the “Loop” button under “Recording and Playback”
 - Default value is set to off
 
-<Playback Volume>
+Playback Volume
 - Playback volume may be adjusted separately from the master volume of the synth using the
   “Playback Volume” slider under “Recording and Playback”
 	- Moving the slider upwards raises the playback volume
